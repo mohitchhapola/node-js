@@ -1,8 +1,7 @@
-// Zy3xT07x0qJH2sRk  username-mohit6644
-
-console.log("hello world!")
+console.log("Hello World")
 
 
+//connect to mongodb
 const { MongoClient, ServerApiVersion } = require('mongodb');
 const uri = "mongodb+srv://<username>:<password>@employee.wqvtxkl.mongodb.net/?retryWrites=true&w=majority";
 
